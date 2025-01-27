@@ -1,6 +1,9 @@
-# Research Project: Obesity Rates in Children
+# Research Project: Obesity Rates in Children Ages 2 - 19
 
-CIC-PCUBED with mentor Dr. Doina Bein
+## Tracy Nguyen, Teresa Nguyen, Ly Nguyen
+
+## Dr. Doina Bein
+## CIC-PCUBED
 California State University, Fullerton
 
 Goal: Use data
