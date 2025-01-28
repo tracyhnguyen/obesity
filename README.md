@@ -13,7 +13,7 @@ California State University, Long Beach, *Computer Science, B.S.* <br>
 California State University, Long Beach, *Computer Science, B.S.* <br>
 
 ## CIC|PCUBED
-This research project was completed under the mentorship of Dr. Doina Bein as part of California State University, Fullerton's research program, [CIC-PCUBED](https://www.fullerton.edu/ecs/cicpcubed/index.php).
+This research project was completed under the mentorship of *Dr. Doina Bein* as part of *California State University, Fullerton's* research program, **[CIC-PCUBED](https://www.fullerton.edu/ecs/cicpcubed/index.php)**.
 
 >"CIC|PCUBED is a grant-funded project that aims to increase the transfer, retention, and graduation rates of women in Computer Sciences at CSU Fullerton."
 
