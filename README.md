@@ -23,7 +23,7 @@ This research project was completed under the mentorship of *Dr. Doina Bein* as 
 <br>
 
 > [!NOTE]
-> To view the code, see the attached ***[.ipynb file](Obesity.ipynb)***. To view the presentation, see the ***[.pdf presentation](Obesity_Research.pdf)*** attachment. Files are attached in the repository.
+> To view the code, see the attached ***[.ipynb file](Obesity.ipynb)***. To view the presentation, see the ***[.pdf presentation](Obesity_Research.pdf)*** attachment. To view dataset, see link in footnote or ***[.csv dataset](obesity_dataset.csv)***. Files are attached in the repository.
 
 > Tools: Google CoLab, Jupyter Notebook, Python, Numpy, Pandas, SkLearn, Seaborn, Matplotlib, Zoom, Microsoft Office 365, Google Workspace
 
