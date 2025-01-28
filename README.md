@@ -23,12 +23,12 @@ This research project was completed under the mentorship of *Dr. Doina Bein* as 
 <br>
 
 > [!NOTE]
-> To view the code, see the attached ***.ipynb file***. To view the presentation, see the ***.pdf*** attachment. Files are attached in the repository.
+> To view the code, see the attached ***[.ipynb file](obesity.ipynb)***. To view the presentation, see the ***.pdf*** attachment. Files are attached in the repository.
 
 > Tools: Google CoLab, Jupyter Notebook, Python, Numpy, Pandas, SkLearn, Seaborn, Matplotlib, Zoom, Microsoft Office 365, Google Workspace
 
 <br>
 
-[^1]: CDC.gov
+[^1]: [CDC.gov dataset](https://data.cdc.gov/NCHS/Obesity-among-children-and-adolescents-aged-2-19-y/9gay-j69q/data)
 
 
